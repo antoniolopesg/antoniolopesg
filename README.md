@@ -9,4 +9,4 @@
   </li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniolopesg&langs_count=3&hide=java&layout=compact&theme=dark)](https://github.com/antoniolopesg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniolopesg&langs_count=4&hide=java,html,ejs,css&layout=compact&theme=dark)](https://github.com/antoniolopesg/github-readme-stats)
