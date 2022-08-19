@@ -1,12 +1,22 @@
 # Antonio Lopes
 
-<ul>
-  <li> <strong>Backend Developer :)</strong></li>
-  <li> <strong>Email: <a href="mailto:antoniolopesg@protonmail.com">antoniolopesg@protonmail.com</a></strong></li>
-  <li> <strong>Currently working with</strong>:
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" width="24" height="24"/>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="24" height="24"/>
-  </li>
-</ul>
+## About me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniolopesg&langs_count=4&hide=java,html,ejs,css&layout=compact&theme=dark)](https://github.com/antoniolopesg/github-readme-stats)
+Hi I'm Antonio Lopes, Software Engineer at Blu By BS2 and undergraduating in Computer Science at Universidade Estadual do Piauí from Brazil. At my job i use kotlin but i am a generalist developer. 
+
+## And what else ? 😶
+
+I'm always working on my side projects for getting knowledge and making a lot of questions in sibelius discord server.
+
+## Sibelius Discord Server ?
+
+Yes, it is a discord server that some people of brazilian techonology community discusses and chat everyday
+
+
+## Current side projects 🛠️
+
+- [Fakketter](https://github.com/antoniolopesg/faketter): A GrapQL + Relay twitter clone
+
+## Wanna chat ?
+
+✍ text me on [LinkedIn](https://www.linkedin.com/in/antoniolopesg/)!
