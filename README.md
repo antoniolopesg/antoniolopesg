@@ -15,7 +15,7 @@ Yes, it is a discord server that some people of brazilian techonology community 
 
 ## Current side projects 🛠️
 
-- [Fakketter](https://github.com/antoniolopesg/faketter): A GrapQL + Relay twitter clone
+- [Fakketter](https://github.com/antoniolopesg/faketter): A GraphQL + Relay twitter clone
 
 ## Wanna chat ?
 
