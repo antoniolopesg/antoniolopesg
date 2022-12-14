@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi I'm Antonio Lopes, Software Engineer at Blu By BS2 and undergraduating in Computer Science at Universidade Estadual do Piauí from Brazil. At my job i use kotlin but i am a generalist developer. 
+Hi I'm Antonio Lopes, Software Engineer at Invillia and undergraduating in Computer Science at Universidade Estadual do Piauí from Brazil. At my job i use kotlin but i am a generalist developer. 
 
 ## And what else ? 😶
 
