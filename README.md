@@ -2,7 +2,6 @@
  
 - I'm love with Kotlin and Typescript but I am a generalist developer
 - Worked with Frontend and Backend Applications with different stacks
-- Writing [Ledger](https://github.com/antoniolopesg/ledger), A GraphQL + Relay Ledger
 
 <hr>
 
