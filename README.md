@@ -7,7 +7,7 @@
 
 <div align="center">
 
-| [Linked In](https://www.linkedin.com/in/vict%C3%B3ria-rose-4a90b6233/) (professional) |
+| [Linked In](https://www.linkedin.com/in/antoniolopesg/) (professional) |
 
 </div>
 
