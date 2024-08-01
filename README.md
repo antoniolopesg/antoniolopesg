@@ -1,6 +1,6 @@
 <h2 align="center"> Hello, I'm Antonio Lopes </h2>
  
-- I'm love with Kotlin and Typescript but I am a generalist developer
+- I'm love with Go and Typescript but I am a generalist developer
 - Worked with Frontend and Backend Applications with different stacks
 
 <hr>
