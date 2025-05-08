@@ -1,14 +1,10 @@
-<h2 align="center"> Hello, I'm Antonio Lopes </h2>
- 
-- I'm love with Go and Typescript but I am a generalist developer
-- Worked with Frontend and Backend Applications with different stacks
+<h2 align="center">Antonio Lopes</h2>
 
-<hr>
+- Generalist developer experienced in Go and TypeScript  
+- Built and maintained frontend and backend systems across diverse stacks
 
-<div align="center">
+---
 
-| [Linked In](https://www.linkedin.com/in/antoniolopesg/) (professional) |
-
-</div>
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/antoniolopesg/">LinkedIn</a>
+</p>
